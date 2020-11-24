@@ -1,6 +1,6 @@
 project("libavtp" LANGUAGES C)
 
-cmake_minimum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.16)
 cmake_policy(SET CMP0048 NEW)
 set(PROJECT_VERSION "0.1.0")
 
